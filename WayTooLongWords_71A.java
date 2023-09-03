@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WayTooLongWords {
+public class WayTooLongWords_71A {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
